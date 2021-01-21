@@ -1,0 +1,5 @@
+Veri tabanının adı fotograf, veri tabanı bağlantısı için inc/vt.php dosyasını kullanıyorum. Gerekli ayarlamaları orada yapabilirsiniz.
+
+admin paneli giriş bilgileri: 
+Kullanıcı adı: admin
+Parola: 1234
